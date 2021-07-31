@@ -1,0 +1,16 @@
+{
+  "required_item_list" : {
+    "minecraft:<item>":{
+      "runtime_id": <id (Above -> 898) >,
+      "component_based":false
+    }
+  },
+  "r16_to_current_item_map": {
+    "simple" : {
+      "minecraft:<item>": "minecraft:custom_<item>"
+    }
+  },
+  "item_id_map": {
+    "minecraft:<item>": <Same As "runtime_id">
+  }
+}
